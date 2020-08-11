@@ -16,6 +16,7 @@
 		D2403E8B24E26E0900CF9702 /* AudioRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2403E8A24E26E0900CF9702 /* AudioRecorder.swift */; };
 		D2403E8F24E273E100CF9702 /* RecordingsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2403E8E24E273E100CF9702 /* RecordingsList.swift */; };
 		D2403E9124E27A3600CF9702 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2403E9024E27A3600CF9702 /* Extensions.swift */; };
+		D2403E9324E27F0100CF9702 /* RecordingDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2403E9224E27F0100CF9702 /* RecordingDataModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		D2403E8A24E26E0900CF9702 /* AudioRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioRecorder.swift; sourceTree = "<group>"; };
 		D2403E8E24E273E100CF9702 /* RecordingsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingsList.swift; sourceTree = "<group>"; };
 		D2403E9024E27A3600CF9702 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		D2403E9224E27F0100CF9702 /* RecordingDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingDataModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				D2403E7A24E2683C00CF9702 /* ContentView.swift */,
 				D2403E8A24E26E0900CF9702 /* AudioRecorder.swift */,
 				D2403E9024E27A3600CF9702 /* Extensions.swift */,
+				D2403E9224E27F0100CF9702 /* RecordingDataModel.swift */,
 				D2403E8E24E273E100CF9702 /* RecordingsList.swift */,
 				D2403E7C24E2683E00CF9702 /* Assets.xcassets */,
 				D2403E8124E2683E00CF9702 /* LaunchScreen.storyboard */,
@@ -157,6 +160,7 @@
 			files = (
 				D2403E7724E2683C00CF9702 /* AppDelegate.swift in Sources */,
 				D2403E9124E27A3600CF9702 /* Extensions.swift in Sources */,
+				D2403E9324E27F0100CF9702 /* RecordingDataModel.swift in Sources */,
 				D2403E7924E2683C00CF9702 /* SceneDelegate.swift in Sources */,
 				D2403E8F24E273E100CF9702 /* RecordingsList.swift in Sources */,
 				D2403E8B24E26E0900CF9702 /* AudioRecorder.swift in Sources */,
