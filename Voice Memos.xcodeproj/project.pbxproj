@@ -13,6 +13,8 @@
 		D2403E7D24E2683E00CF9702 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2403E7C24E2683E00CF9702 /* Assets.xcassets */; };
 		D2403E8024E2683E00CF9702 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2403E7F24E2683E00CF9702 /* Preview Assets.xcassets */; };
 		D2403E8324E2683E00CF9702 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2403E8124E2683E00CF9702 /* LaunchScreen.storyboard */; };
+		D2403E8B24E26E0900CF9702 /* AudioRecorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2403E8A24E26E0900CF9702 /* AudioRecorder.swift */; };
+		D2403E8F24E273E100CF9702 /* RecordingsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2403E8E24E273E100CF9702 /* RecordingsList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D2403E7F24E2683E00CF9702 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D2403E8224E2683E00CF9702 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2403E8424E2683E00CF9702 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2403E8A24E26E0900CF9702 /* AudioRecorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioRecorder.swift; sourceTree = "<group>"; };
+		D2403E8E24E273E100CF9702 /* RecordingsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingsList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				D2403E7624E2683C00CF9702 /* AppDelegate.swift */,
 				D2403E7824E2683C00CF9702 /* SceneDelegate.swift */,
 				D2403E7A24E2683C00CF9702 /* ContentView.swift */,
+				D2403E8A24E26E0900CF9702 /* AudioRecorder.swift */,
+				D2403E8E24E273E100CF9702 /* RecordingsList.swift */,
 				D2403E7C24E2683E00CF9702 /* Assets.xcassets */,
 				D2403E8124E2683E00CF9702 /* LaunchScreen.storyboard */,
 				D2403E8424E2683E00CF9702 /* Info.plist */,
@@ -148,6 +154,8 @@
 			files = (
 				D2403E7724E2683C00CF9702 /* AppDelegate.swift in Sources */,
 				D2403E7924E2683C00CF9702 /* SceneDelegate.swift in Sources */,
+				D2403E8F24E273E100CF9702 /* RecordingsList.swift in Sources */,
+				D2403E8B24E26E0900CF9702 /* AudioRecorder.swift in Sources */,
 				D2403E7B24E2683C00CF9702 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
